@@ -7,7 +7,7 @@ const courses = require('./data/courses.json');
 const courseDetails = require('./data/courseDetails.json')
 
 app.get('/', (req, res) => {
-    res.send('Course API Running');
+    res.send('Course API Running.\n Use /courses to see courses.\n use /courseDetails to see course details. \n /courseDetails/:id to see id specific data.');
 })
 app.get('/courses', (req, res) => {
     res.send(courses);
