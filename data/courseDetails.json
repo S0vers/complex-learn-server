@@ -1,0 +1,79 @@
+[
+    {
+        "id": "635819fb3780a8ba67a1e788",
+        "course_id": "1",
+        "title": "Learning Basic C++",
+        "summary": "In this course you will learn the fundaments and the basics of programming with C++.",
+        "detail":"Launch your journey as a developer with this comprehensive course that provides an in-depth learning experience with the powerful, fast, and popular object-oriented C++ programming language from scratch. You will have access to a stack of learning activities like detailed presentations, comprehensive code demo videos, quizzes, multiple coding assignments and more.This course has numerous auto-evaluated C++ coding activities that help you understand the syntax and semantics of C++ and build strong programming and problem-solving skills.\n You’ll learn how to frame a strong logic development angle, comprehend a scenario, translate it into a program, submit your solution for auto evaluation, and get detailed feedback. The hands-on exercises are designed to test learners with various levels of understanding of C++ skills and concepts to help them master the syntax and semantics of the language.",
+        "time": "32 Hrs",
+        "Rating": 3.84,
+        "picture": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "totalview": 3120
+    },
+    {
+        "id": "635819fb3c7aaff804d093ab",
+        "course_id": "2",
+        "title": "GameDev with Unity",
+        "summary": "In this course we will learn game development with Unity.",
+        "detail":"The course is project-based as we believe this is the best way to learn Unity and C#. You will not just be learning dry programming concepts, but applying them immediately to real indie games as you go. All the project files will be included, as well as additional references and resources - you'll never get stuck.\n There are talking-head videos, powerful diagrams, quality screencasts and more. ",
+        "time": "12 Hrs",
+        "Rating": 4.85,
+        "picture": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1047541/unity-with-mvc-how-to-level-up-your-game-development-2568c14b4793b4fc736f789049d27f49.png",
+        "totalview": 1257
+    },
+    {
+        "id": "635819fb9e52f9a4a598d865",
+        "course_id": "3",
+        "title": "Python for Data science",
+        "summary": "In this course we will learn everything about Data science and using python for data science.",
+        "detail":"Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries.\n This course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary! You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules, and create a final project to demonstrate your new skills.\n By the end of this course, you’ll feel comfortable creating basic programs, working with data, and solving real-world problems in Python. You’ll gain a strong foundation for more advanced learning in the field, and develop skills to help advance your career. ",
+        "time": "80 Hrs",
+        "Rating": 5,
+        "picture": "https://fullscale.io/wp-content/uploads/2022/04/python-data-science.png",
+        "totalview": 454
+    },
+    {
+        "id": "635819fbbc671fcd6cbf5eda",
+        "course_id": "4",
+        "title": "Developer in 100 days",
+        "summary": "In this course we will take the challenge of programming everyday for 100 days.",
+        "detail":"This course will teach you web development and turn you into a web developer in 100 days - or allow you to refresh key essentials and expand your existing knowledge!\n Becoming a web developer is a great choice because web development opens up many career paths and web development skills are required in pretty much every business that exists today - and of course this will only increase in the future!",
+        "time": "72 Hrs",
+        "Rating": 3.23,
+        "picture": "https://internationaljournalofresearch.files.wordpress.com/2020/06/coding-vs-programming-2.jpg",
+        "totalview": 243
+    },
+    {
+        "id": "635819fb82ef5abc76a44d63",
+        "course_id": "5",
+        "title": "Making Instagram",
+        "summary": "In this course we will learn to React by making and Instagram clone.",
+        "detail":"Are you a front-end developer or full-stack developer looking to take your development skills to the next level or impress your potential employer? Replicating a popular social media app is a great step to take.\n In this tutorial, you will learn how to build an Instagram clone using ReactJS. You will build an Instagram clone from scratch, and connect your app to a Firebase backend to improve its functionality - from signing up to uploading posts and adding comments to posts. You will also learn how to deploy it with Firebase as well.",
+        "time": "6 Hrs",
+        "Rating": 4.82,
+        "picture": "https://blog.hubspot.com/hubfs/Google%20Drive%20Integration/How%20to%20Create%20an%20Instagram%20Business%20Account-Jan-21-2022-10-08-28-35-PM.jpeg",
+        "totalview": 1325
+    },
+    {
+        "id": "635819fbbb972f142737546f",
+        "course_id": "6",
+        "title": "Learning Java",
+        "summary": "In this course will learn Java and the fundamentals of programming.",
+        "detail":"Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
+        "time": "24 Hrs",
+        "Rating": 3.21,
+        "picture": "https://www.educative.io/api/page/6402891239653376/image/download/5261134581989376",
+        "totalview": 2541
+    },
+    {
+        "id": "63581a764ff5b99b6c9d5b79",
+        "course_id": "7",
+        "title": "Think like a Pro",
+        "summary": "In this course you will learn how to think like a programmer.",
+        "detail":"In this course you will learn key concepts of computational thinking such as data comprehension, decomposition, pattern recognition, abstraction, algorithmic thinking and solution optimization.\n Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. Computational Thinking is a life skill essential for survival in the 21st century. It lays the foundation of coding and is future proof. Just like how it is important for kids to learn English, Math and Science even though they may not all become writers, mathematicians or scientists, the kids born in this millennium need baseline coding competencies to stay relevant. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.",
+        "time": "3.5 Hrs",
+        "Rating": 3.21,
+        "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200326191711/How-to-Think-Like-a-Programmer.png",
+        "totalview": 2541
+    }
+]
